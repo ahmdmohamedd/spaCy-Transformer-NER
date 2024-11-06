@@ -3,7 +3,7 @@ This project demonstrates Named Entity Recognition (NER) using spaCy 3 and trans
 
 ## Project Structure
 
-*   `NER_with_spaCy_and_Transformers.ipynb`: The main Jupyter Notebook containing the code for the project.
+*   `Transformer_Based_NER.ipynb`: The main Jupyter Notebook containing the code for the project.
 *   `eng.train`, `eng.testa`, `eng.testb`: CoNLL-2003 dataset files for training, development, and testing.
 *   `config.cfg`: Configuration file for training the spaCy NER model.
 *   `output/`: Directory where the trained model is saved.
