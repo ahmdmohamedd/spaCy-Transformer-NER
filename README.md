@@ -10,7 +10,7 @@ This project demonstrates Named Entity Recognition (NER) using spaCy 3 and trans
 
 ## Getting Started
 
-1.  Open the `NER_with_spaCy_and_Transformers.ipynb` notebook in Google Colab.
+1.  Open the `Transformer_Based_NER.ipynb` notebook in Google Colab.
 2.  Run the code cells sequentially to load the data, preprocess it, train the model, and evaluate its performance.
 3.  The notebook includes visualizations of the predicted entities on sample text.
 
